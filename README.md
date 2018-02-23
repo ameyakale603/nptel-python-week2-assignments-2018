@@ -6,13 +6,16 @@
 
     Here are some examples to show how your function should work.
 
-```>>> rotatelist([1,2,3,4,5],1)
+```
+>>> rotatelist([1,2,3,4,5],1)
 [5, 1, 2, 3, 4]
 
 >>> rotatelist([1,2,3,4,5],3)
 [3, 4, 5, 1, 2]
 
 >>> rotatelist([1,2,3,4,5],12)
-[4, 5, 1, 2, 3]```
+[4, 5, 1, 2, 3]
+
+```
 
 * Assignment 2:
